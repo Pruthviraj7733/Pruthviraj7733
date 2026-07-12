@@ -113,29 +113,6 @@ Status     : 🟢 Open to New Opportunities
 
 `Bash` `Python` `Automation` `AWS CLI` `Scripts`
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Pruthviraj's GitHub Stats](https://github-readme-stats.vercel.app/apiusername=Pruthviraj7733&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthviraj7733&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pruthviraj7733&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Pruthviraj7733&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
