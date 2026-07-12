@@ -1,13 +1,13 @@
 ## Hi there 👋
 <div align="center">
 
-# 👋 Hi, I'm Samant Wanjare
+# 👋 Hi, I'm Pruthviraj Markad
 
 ### 🚀 DevOps Engineer | Cloud & Infrastructure Automation | 3+ Years Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samantwanjare)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/samantwanjare)
-[![Profile Views](https://komarev.com/ghpvc/?username=samantwanjare&style=for-the-badge&color=brightgreen)](https://github.com/samantwanjare)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pruthviraj-markad/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Pruthviraj7733)
+[![Profile Views](https://komarev.com/ghpvc/?username=Pruthviraj7733&style=for-the-badge&color=brightgreen)](https://github.com/Pruthviraj7733)
 
 </div>
 
@@ -16,7 +16,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-Name       : Samant Wanjare
+Name       : Pruthviraj Markad
 Role       : DevOps Engineer
 Experience : 3+ Years
 Location   : Pune, Maharashtra, India
@@ -73,10 +73,10 @@ Status     : 🟢 Open to New Opportunities
 
 > ⭐ Pin these repositories on your GitHub profile for maximum visibility
 
-### 🔹 [terraform-aws-infra](https://github.com/samantwanjare/terraform-aws-infra)
-> Production-ready AWS infrastructure using Terraform — VPC, EC2, EKS, RDS, S3, IAM, and more. Modular, reusable, and fully version-controlled.
+### 🔹 [aws-devops-platform](https://github.com/Pruthviraj7733/java-application)
+> Built a complete AWS DevOps platform using EKS, Docker, Jenkins, Kubernetes, ECR, and Argo CD for automated build, deployment, and application lifecycle management.
 
-`Terraform` `AWS` `EKS` `VPC` `IaC`
+`AWS` `EKS` `VPC` `IaC`
 
 ---
 
@@ -119,11 +119,9 @@ Status     : 🟢 Open to New Opportunities
 
 <div align="center">
 
-![Samant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samantwanjare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samantwanjare&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samantwanjare&theme=tokyonight&hide_border=true)
+![Pruthviraj's GitHub Stats](https://github-readme-stats.vercel.app/apiusername=Pruthviraj7733&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthviraj7733&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pruthviraj7733&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -133,7 +131,7 @@ Status     : 🟢 Open to New Opportunities
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=samantwanjare&theme=tokyonight&no-frame=true&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Pruthviraj7733&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -145,9 +143,9 @@ Status     : 🟢 Open to New Opportunities
 
 | Platform | Link |
 |---|---|
-| 💼 LinkedIn | [linkedin.com/in/samantwanjare](https://linkedin.com/in/samantwanjare) |
-| 🐙 GitHub | [github.com/samantwanjare](https://www.linkedin.com/in/samant-wanjare-160a85246) |
-| 📧 Email | samantwanjare1998@gmail.com |
+| 💼 LinkedIn | [linkedin.com/in/pruthviraj-markad](https://www.linkedin.com/in/pruthviraj-markad/) |
+| 🐙 GitHub | [github.com/Pruthviraj7733](https://github.com/Pruthviraj7733) |
+| 📧 Email | pruthvirajmarkad2001@gmail.com |
 | 📍 Location | Pune, Maharashtra, India |
 
 </div>
@@ -163,7 +161,8 @@ Status     : 🟢 Open to New Opportunities
 </div>
 
 <!--
-**samantwanjare/samantwanjare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Pruthviraj7733/Pruthviraj7733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
