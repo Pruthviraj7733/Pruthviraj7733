@@ -104,16 +104,6 @@ A hands-on Java JSP application release automation project using **GitHub, Jenki
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pruthviraj7733&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
