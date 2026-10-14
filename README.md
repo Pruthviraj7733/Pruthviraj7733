@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
 
 # 👋 Hi, I'm Pruthviraj Markad
@@ -70,48 +69,23 @@ Status     : 🟢 Open to New Opportunities
 
 ## 📌 Featured Projects
 
-> ⭐ Pin these repositories on your GitHub profile for maximum visibility
+### 🔹 [End-to-End CI/CD Release Automation on AWS EKS](https://github.com/Pruthviraj7733/devops-release-automation)
 
-### 🔹 [aws-devops-platform](https://github.com/Pruthviraj7733/java-application)
-> Built a complete AWS DevOps platform using EKS, Docker, Jenkins, Kubernetes, ECR, and Argo CD for automated build, deployment, and application lifecycle management.
+> Built and tested an end-to-end release automation workflow for a Java web application using GitHub webhooks, Jenkins, Maven, Docker, Amazon ECR, Amazon EKS, Kubernetes, and AWS Application Load Balancer.
 
-`AWS` `EKS` `VPC` `IaC`
+**Key highlights:**
+- Automated source checkout, Maven packaging, Docker image builds, and image publishing to Amazon ECR using Jenkins.
+- Deployed the containerized Java application to Amazon EKS with Kubernetes manifests.
+- Implemented and tested **Rolling Update** and **Blue/Green** deployment strategies.
+- Added a manual approval gate for production promotion and rollback workflows for failed releases.
+- Configured Kubernetes Ingress with AWS Application Load Balancer for external access.
+- Verified deployment behavior and removed chargeable EKS/ALB infrastructure after testing.
 
----
+`AWS` `EKS` `ECR` `ALB` `Jenkins` `GitHub` `Maven` `Docker` `Kubernetes` `CI/CD` `Blue/Green` `Rolling Update` `Rollback`
 
-### 🔹 [kubernetes-manifests](https://github.com/samantwanjare/kubernetes-manifests)
-> A collection of Kubernetes YAML manifests and Helm charts for deploying microservices, ingress controllers, and persistent storage on AWS EKS and on-premise clusters.
-
-`Kubernetes` `Helm` `Docker` `EKS` `K8s`
-
----
-
-### 🔹 [cicd-pipeline-templates](https://github.com/samantwanjare/cicd-pipeline-templates)
-> Ready-to-use CI/CD pipeline templates for Jenkins (Declarative), GitHub Actions workflows, and GitLab CI — covering build, test, docker push, and deploy stages.
-
-`Jenkins` `GitHub Actions` `GitLab CI` `CI/CD` `DevOps`
+**[🔗 View Project Repository](https://github.com/Pruthviraj7733/devops-release-automation)**
 
 ---
-
-### 🔹 [ansible-playbooks](https://github.com/samantwanjare/ansible-playbooks)
-> Ansible roles and playbooks for server provisioning, configuration management, and application deployments on both AWS EC2 and on-premise Linux servers.
-
-`Ansible` `Configuration Management` `Linux` `Automation`
-
----
-
-### 🔹 [monitoring-stack](https://github.com/samantwanjare/monitoring-stack)
-> Full observability stack setup using Prometheus, Grafana dashboards, and ELK Stack — deployed via Docker Compose and Kubernetes.
-
-`Prometheus` `Grafana` `ELK Stack` `Monitoring` `Observability`
-
----
-
-### 🔹 [devops-scripts](https://github.com/samantwanjare/devops-scripts)
-> A toolkit of Bash and Python scripts for automating routine DevOps tasks — log rotation, health checks, backup automation, AWS resource cleanup, and more.
-
-`Bash` `Python` `Automation` `AWS CLI` `Scripts`
-
 
 ## 📫 Let's Connect
 
@@ -135,19 +109,3 @@ Status     : 🟢 Open to New Opportunities
 ⭐ *If you find any of my projects useful, consider giving them a star!*
 
 </div>
-
-<!--
-
-**Pruthviraj7733/Pruthviraj7733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
