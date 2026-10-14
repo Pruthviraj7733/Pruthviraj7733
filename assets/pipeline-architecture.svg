@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="3D styled DevOps CI CD pipeline architecture from GitHub to Jenkins Docker ECR EKS and AWS ALB">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1024"/><stop offset="1" stop-color="#17294b"/></linearGradient>
+<linearGradient id="top" x2="0" y2="1"><stop stop-color="#344d82"/><stop offset="1" stop-color="#1d335d"/></linearGradient>
+<linearGradient id="green" x2="0" y2="1"><stop stop-color="#1aaea5"/><stop offset="1" stop-color="#116e8d"/></linearGradient>
+<filter id="shadow" x="-30%" y="-50%" width="160%" height="220%"><feDropShadow dx="0" dy="12" stdDeviation="9" flood-color="#000" flood-opacity=".5"/></filter>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10Z" fill="#7dd3fc"/></marker>
+</defs>
+<rect width="1200" height="560" rx="22" fill="url(#bg)"/>
+<g fill="#dbeafe" font-family="Arial, sans-serif"><text x="55" y="67" font-size="34" font-weight="700">DEVOPS RELEASE AUTOMATION</text><text x="55" y="99" font-size="17" fill="#93b4df">GitHub → Jenkins → Docker → ECR → Amazon EKS → ALB</text></g>
+<g stroke="#7dd3fc" stroke-width="4" fill="none" marker-end="url(#arrow)"><path d="M238 237 H275"/><path d="M465 237 H502"/><path d="M692 237 H729"/><path d="M919 237 H954"/><path d="M823 297 V385 H875"/></g>
+<g font-family="Arial, sans-serif" text-anchor="middle" filter="url(#shadow)">
+<g transform="translate(55 170)"><rect x="0" y="10" width="180" height="132" rx="15" fill="#101c37"/><rect width="180" height="120" rx="15" fill="url(#top)" stroke="#5877ae"/><text x="90" y="48" fill="#c7d2fe" font-size="25" font-weight="700">GitHub</text><text x="90" y="78" fill="#e2e8f0" font-size="15">Source + webhook</text></g>
+<g transform="translate(282 170)"><rect y="10" width="180" height="132" rx="15" fill="#101c37"/><rect width="180" height="120" rx="15" fill="url(#top)" stroke="#5877ae"/><text x="90" y="48" fill="#fef08a" font-size="25" font-weight="700">Jenkins</text><text x="90" y="78" fill="#e2e8f0" font-size="15">Build + verify</text></g>
+<g transform="translate(509 170)"><rect y="10" width="180" height="132" rx="15" fill="#101c37"/><rect width="180" height="120" rx="15" fill="url(#top)" stroke="#5877ae"/><text x="90" y="48" fill="#7dd3fc" font-size="25" font-weight="700">Docker</text><text x="90" y="78" fill="#e2e8f0" font-size="15">Container image</text></g>
+<g transform="translate(736 170)"><rect y="10" width="180" height="132" rx="15" fill="#101c37"/><rect width="180" height="120" rx="15" fill="url(#top)" stroke="#5877ae"/><text x="90" y="48" fill="#fdba74" font-size="25" font-weight="700">AWS ECR</text><text x="90" y="78" fill="#e2e8f0" font-size="15">Versioned registry</text></g>
+<g transform="translate(961 170)"><rect y="10" width="180" height="132" rx="15" fill="#0a3448"/><rect width="180" height="120" rx="15" fill="url(#green)" stroke="#5eead4"/><text x="90" y="48" fill="white" font-size="25" font-weight="700">EKS</text><text x="90" y="78" fill="#eaffff" font-size="15">Blue / Green pods</text></g>
+<g transform="translate(775 393)"><rect y="10" width="325" height="92" rx="15" fill="#101c37"/><rect width="325" height="80" rx="15" fill="url(#top)" stroke="#5877ae"/><text x="162" y="33" fill="#fef08a" font-size="21" font-weight="700">AWS ALB + Ingress</text><text x="162" y="60" fill="#e2e8f0" font-size="15">Active Service → Blue / Green</text></g>
+</g>
+<g fill="#a9c3e6" font-family="Arial,sans-serif" font-size="16"><text x="55" y="445">CI_ONLY · ROLLING_UPDATE · BLUE_GREEN</text><text x="55" y="473">Manual approval · Readiness checks · Rollback handling</text><text x="55" y="510" font-size="13" fill="#7995bd">Architecture illustration • Not a live deployment</text></g>
+</svg>
