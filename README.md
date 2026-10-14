@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pruthviraj-markad/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Pruthviraj7733)
-[![Profile Views](https://komarev.com/ghpvc/?username=Pruthviraj7733&style=for-the-badge&color=brightgreen)](https://github.com/Pruthviraj7733)
 
 </div>
 
@@ -17,7 +16,7 @@
 ```yaml
 Name       : Pruthviraj Markad
 Role       : DevOps Engineer
-Experience : 3+ Years
+Experience : 3.6 Years
 Location   : Pune, Maharashtra, India
 Focus      : Cloud Infrastructure | CI/CD Automation | Container Orchestration
 Status     : 🟢 Open to New Opportunities
