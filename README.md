@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Pruthviraj Markad
 
-### 🚀 DevOps Engineer | Cloud & Infrastructure Automation | 3+ Years Experience
+### 🚀 DevOps Engineer | Cloud & Infrastructure Automation | 3.6 Years Experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pruthviraj-markad/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Pruthviraj7733)
@@ -66,23 +66,27 @@ Status     : 🟢 Open to New Opportunities
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
-### 🔹 [End-to-End CI/CD Release Automation on AWS EKS](https://github.com/Pruthviraj7733/devops-release-automation)
+### [End-to-End CI/CD Release Automation on AWS EKS](https://github.com/Pruthviraj7733/devops-release-automation)
 
-> Built and tested an end-to-end release automation workflow for a Java web application using GitHub webhooks, Jenkins, Maven, Docker, Amazon ECR, Amazon EKS, Kubernetes, and AWS Application Load Balancer.
+A hands-on Java JSP application release automation project using **GitHub, Jenkins, Docker, Amazon ECR, Amazon EKS, Kubernetes, and AWS Application Load Balancer**.
 
-**Key highlights:**
-- Automated source checkout, Maven packaging, Docker image builds, and image publishing to Amazon ECR using Jenkins.
-- Deployed the containerized Java application to Amazon EKS with Kubernetes manifests.
-- Implemented and tested **Rolling Update** and **Blue/Green** deployment strategies.
-- Added a manual approval gate for production promotion and rollback workflows for failed releases.
-- Configured Kubernetes Ingress with AWS Application Load Balancer for external access.
-- Verified deployment behavior and removed chargeable EKS/ALB infrastructure after testing.
+**Implemented capabilities**
+- Jenkins Docker image build, verification, and versioned publishing to Amazon ECR.
+- EKS deployment using Kubernetes YAML manifests, readiness/liveness probes, and resource limits.
+- **Rolling Updates** with rollout verification and an attempted image rollback on failure.
+- **Blue/Green deployments** with inactive-environment checks, manual approval, and a production Service-selector switch.
+- Verification of deployment readiness, active image version, and ALB target health.
+- Eight dedicated documentation pages covering architecture, setup, pipeline, deployments, recovery, troubleshooting, and AWS cleanup.
 
-`AWS` `EKS` `ECR` `ALB` `Jenkins` `GitHub` `Maven` `Docker` `Kubernetes` `CI/CD` `Blue/Green` `Rolling Update` `Rollback`
+**Explore the documentation**
 
-**[🔗 View Project Repository](https://github.com/Pruthviraj7733/devops-release-automation)**
+[Project Overview](https://github.com/Pruthviraj7733/devops-release-automation) · [Architecture](https://github.com/Pruthviraj7733/devops-release-automation/blob/main/docs/architecture.md) · [Setup Guide](https://github.com/Pruthviraj7733/devops-release-automation/blob/main/docs/setup-guide.md) · [CI/CD Pipeline](https://github.com/Pruthviraj7733/devops-release-automation/blob/main/docs/ci-cd-pipeline.md) · [Blue/Green](https://github.com/Pruthviraj7733/devops-release-automation/blob/main/docs/blue-green-deployment.md) · [Rollback](https://github.com/Pruthviraj7733/devops-release-automation/blob/main/docs/rollback.md)
+
+`AWS` `Jenkins` `Docker` `ECR` `EKS` `Kubernetes` `ALB` `Rolling Update` `Blue/Green` `Rollback`
+
+> **Project status:** The AWS EKS cluster and ALB were removed after testing to control costs. The repository is currently **private**, so visitors without access cannot view its files or documentation.
 
 ---
 
