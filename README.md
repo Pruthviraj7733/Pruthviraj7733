@@ -71,7 +71,7 @@ Status     : 🟢 Open to New Opportunities
 ### [End-to-End CI/CD Release Automation on AWS EKS](https://github.com/Pruthviraj7733/devops-release-automation)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pruthviraj7733/devops-release-automation/main/docs/assets/pipeline-architecture.svg" alt="3D-style CI/CD project architecture" width="100%" />
+  <img src="assets/pipeline-architecture.svg" alt="3D-style CI/CD project architecture" width="100%" />
 </div>
 
 A hands-on Java JSP application release automation project using **GitHub, Jenkins, Docker, Amazon ECR, Amazon EKS, Kubernetes, and AWS Application Load Balancer**.
