@@ -86,6 +86,30 @@ Status     : 🟢 Open to New Opportunities
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Pruthviraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pruthviraj7733&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthviraj7733&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Pruthviraj7733&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pruthviraj7733&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
